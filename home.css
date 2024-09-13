@@ -1,0 +1,14 @@
+*{margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:border-box;
+}
+
+
+/* *panel **/
+.navbar{ height: 40px;
+    background-color:#101214 ;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
